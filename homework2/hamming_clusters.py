@@ -84,5 +84,5 @@ def hamming_clusters(file):
         clusters += 1
     return clusters
 
-file = "clustering_big.txt"
+file = "test_clustering_big.txt"
 print(hamming_clusters(file)) # answer: 6118
