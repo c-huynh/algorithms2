@@ -1,5 +1,5 @@
 outfile = open("test_clustering_big.txt", "w")
-outfile.write("1000\n")
+outfile.write("1000 24\n")
 
 # write binary representation of first 1000 nodes
 with open("clustering_big.txt") as infile:
